@@ -1,0 +1,14 @@
+body{
+    background-color: grey;
+}
+
+p{
+    color:purple;
+    background-color: yellowgreen;
+}
+
+img{
+   border: 6px solid;
+   border-radius: 4px;
+   border-color: bisque; 
+}
